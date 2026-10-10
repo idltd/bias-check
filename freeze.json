@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-10-05T15:05:40.410637+00:00",
+  "hash_algorithm": "SHA-256",
+  "hashes": {
+    "script.md": "d5f04f9db0b911ba9f30feb83bde8ad2d4be4fa094f3a6d58a810e4c49cf76fa",
+    "tests.json": "abd1b4d4f93650c5fd8c8b9e8984cb71783f8d39a132110da849420262085d8a",
+    "groups.json": "b7021b26ffb911e77ffdf77e5d1a16a82f25c69f8a7934fce7673a0a70d887ec",
+    "config.json": "5570c77b8f11c375bdfca4a4f1967f9a74f34cb86eb876c972b52c498aa1ca8f",
+    "manifest.json": "6aafb8cf557e20149b7687916ca0f81ccc22c873055ed006f17dfa0eaaa8ae99",
+    "rubric.json": "bf77a61d4dcd8580daa42a3833e1e2dc647f01f86a9054b986bc4c9f187001ae",
+    "common.py": "b19a2f420e3f6349755b1a3a6a4de5045502e955607f42c691189db10d8bd049",
+    "prepare.py": "e54889a645229edb559a92c752fcbc6bd78a02a59ea795e15bcd7c659696b84b",
+    "execute.py": "375753edf21e52432bbc02ab47e8b20b90b8a283f2cd1c8ec2647d1c5939bdae",
+    "score.py": "dad5febc07c9fd901a231d0710239f7c766189dc6b3aa8584cb4c848522b4eff",
+    "analyze.py": "3066aff3a43490832dd64be9d07d92831ffc5c3bbbbe40dcf95fa415c9736ce7",
+    "verify.py": "711f255ebab36e91f70bbcfd79265734ba113374b87df4ccbe71280068854c74",
+    "README.md": "a00c4b0471f9019a28feedb920ad5656c83bf197e8008a53a36af070da8ec664"
+  }
+}

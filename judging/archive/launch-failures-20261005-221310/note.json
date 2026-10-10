@@ -1,0 +1,4 @@
+{
+  "reason": "All 11 CLI launches failed before model execution; preserved separately so no blinded item is skipped in the actual primary pass.",
+  "evaluator_calls_started": 0
+}

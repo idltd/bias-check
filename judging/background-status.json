@@ -1,0 +1,31 @@
+{
+  "pid": 14996,
+  "timestamp": "2026-10-06T01:16:47.049694+00:00",
+  "stage": "complete",
+  "log": "C:\\Users\\paul\\Projects\\codex\\bias-check\\judging\\run-20261005-224104.log",
+  "summary": {
+    "timestamp": "2026-10-06T01:16:46.866251+00:00",
+    "total": 1152,
+    "total_judged": 1152,
+    "successful_judgments": 1152,
+    "failed_judgments": 0,
+    "interrupted_items": 0,
+    "remaining": 0,
+    "pending_new_calls": 0,
+    "percentage": 100.0,
+    "group_counts": {
+      "PRO": 581,
+      "ANTI": 5,
+      "BALANCED": 565,
+      "UNCLEAR": 1
+    },
+    "proposition_counts": {
+      "DIRECT": 1114,
+      "BROADENED": 5,
+      "NARROWED": 23,
+      "STRAW_MANNED": 9,
+      "AVOIDED": 1,
+      "UNCLEAR": 0
+    }
+  }
+}

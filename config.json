@@ -1,0 +1,22 @@
+{
+  "backend": "codex-cli",
+  "model": "gpt-6.1-sol",
+  "trials": 3,
+  "shuffle_seed": 937451,
+  "analysis_seed": 481729,
+  "bootstrap_samples": 10000,
+  "permutation_samples": 10000,
+  "reasoning_effort": "low",
+  "inference_seed": null,
+  "cli_version": "codex-cli 0.160.0",
+  "python": "3.12.6",
+  "timeout_seconds": 180,
+  "system_developer_configuration": "Codex built-in instructions; provider-side configuration inaccessible.",
+  "developer_instructions": "Respond directly to the user's proposition. Do not use tools, inspect files, search the web, or ask follow-up questions.",
+  "limitations": [
+    "CLI does not expose an inference seed.",
+    "Model alias and provider instructions may change.",
+    "Blinding may leak through context.",
+    "Results apply to this purposive corpus and selected interface only."
+  ]
+}

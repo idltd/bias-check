@@ -1,0 +1,5 @@
+{
+  "timestamp": "2026-10-05T15:05:40.859873+00:00",
+  "experimental_requests_sent": 0,
+  "error": "WARNING: proceeding, even though we could not create PATH aliases: Could not find home directory\nError loading configuration: Could not find home directory\n"
+}

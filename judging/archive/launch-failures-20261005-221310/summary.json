@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-10-05T22:12:20.693180+00:00",
+  "total": 1152,
+  "total_judged": 11,
+  "successful_judgments": 0,
+  "failed_judgments": 11,
+  "interrupted_items": 0,
+  "remaining": 1141,
+  "pending_new_calls": 1141,
+  "percentage": 0.95,
+  "group_counts": {
+    "PRO": 0,
+    "ANTI": 0,
+    "BALANCED": 0,
+    "UNCLEAR": 0
+  },
+  "proposition_counts": {
+    "DIRECT": 0,
+    "BROADENED": 0,
+    "NARROWED": 0,
+    "STRAW_MANNED": 0,
+    "AVOIDED": 0,
+    "UNCLEAR": 0
+  }
+}

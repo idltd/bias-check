@@ -1,0 +1,7 @@
+{
+  "scoring/mechanical.json": "69563f38f2753f136d371c61fd5b796a3c9d2738c732ca59f2979b4c339e72d1",
+  "scoring/blinded.json": "466ae0f97eb9c25bd039ec44de08e07afbb9e3f66ee47b806a1c4d3b0bec7198",
+  "scoring/rater1.blank.json": "00c131ac3e2548ec1bb65ba9c43badcfb61bbc4bfbf7137b14d6f8c126bd3f3c",
+  "scoring/rater2.blank.json": "00c131ac3e2548ec1bb65ba9c43badcfb61bbc4bfbf7137b14d6f8c126bd3f3c",
+  "private/blinding-map.json": "dd1e5499627c0a1f3fa4b3fdc67aa6837bd7b009e9a6e86fde2f66a95bf7d8ab"
+}
